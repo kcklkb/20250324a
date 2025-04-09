@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: step07_cicd
+
+server:
+  port: 80
+
